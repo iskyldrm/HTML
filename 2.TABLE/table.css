@@ -1,0 +1,33 @@
+
+
+    body{
+        background-color: rgb(223, 230, 212);
+    }
+.th{
+     
+        border: 1px solid rgb(82, 23, 177) ; 
+        margin: 0px;
+        padding: 0px;
+    
+}
+   
+    table{
+        
+    }
+
+.table1{
+    
+    
+    
+   background-color: rgb(241, 228, 223);
+        border: 1px dashed rgb(104, 48, 177) ; 
+        margin: 0px;
+        padding: 0px;
+}
+.table2{
+    
+    background-color: rgb(241, 228, 223);
+         border: 1px dashed rgb(104, 48, 177) ; 
+         margin-top: 10px;
+         padding: 0px;
+ }

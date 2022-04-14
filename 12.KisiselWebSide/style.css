@@ -6,7 +6,7 @@
 } 
 body{
     background-color: aqua;
-    background-image: url("/12.KisiselWebSide/resimler/bodybackraround.png") 
+    background-image: url("resimler/bodybackraround.png") 
 }
 
 #sayfa{

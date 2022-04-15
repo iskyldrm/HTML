@@ -37,7 +37,7 @@ body{
     float: left;
 }
 #myname{
-    font-family: cursive;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     /* border-style: groove; */
     width: 300px;
     height: 40px;
@@ -46,10 +46,10 @@ body{
     top: -50px;
     left: 200px;
     font-size: 30px;
-    font-style:italic;
+    
     font-weight: bold; 
     letter-spacing: 3px;
-    text-shadow: 3px 2px 1px rgb(65, 113, 208);
+    text-shadow: 3px 2px 1px rgb(56, 57, 59);
     color: #64bec6;
     z-index: 1;
     

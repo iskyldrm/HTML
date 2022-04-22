@@ -233,7 +233,7 @@ body{
 }
 #altmenu div{
     position: relative;
-    border-style:groove;
+    
     width: 1000px;
     height: 100px;
     top: -95px;
@@ -251,6 +251,7 @@ body{
 } 
 
 .altmenutable{
+    opacity: 0.5;
     position:absolute;
     width: 1000px;
     height: 80px;

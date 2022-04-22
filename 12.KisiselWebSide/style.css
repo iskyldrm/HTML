@@ -56,7 +56,7 @@ body{
     font-weight: bold; 
     letter-spacing: 3px;
     text-shadow: 3px 2px 1px rgb(56, 57, 59);
-    color: #64bec6;
+    color: navy;
     z-index: 1;
     
     
@@ -235,19 +235,49 @@ body{
     position: relative;
     border-style:groove;
     width: 1000px;
-    height: 150px;
-    top: -165px;
+    height: 100px;
+    top: -95px;
     
     margin-top: 30px;
 }
 
  #sagmenu{
-    position: relative;
+    position:relative;
     left: 1020px;
     top: 20px;
     width: 350px;
     height: 610px;
     border-style: groove;
 } 
+
+.altmenutable{
+    position:absolute;
+    width: 1000px;
+    height: 80px;
+    list-style-type: none;
+    background-color: rgb(243, 243, 243);
+    
+
+    
+}
+    
+.altmenutableustrow a:active{
+    color:red;
+}
+.altmenutableustrow a{
+    text-decoration: none;
+    color: rgba(24, 6, 59, 0.992);
+}
+.altmenutableustrow{
+    font-size: 17px;
+    text-align: left;
+}
+.altmenutablealtrow{
+    font-size: 13px;
+    text-align: left;
+}
+
+
+
 
 
